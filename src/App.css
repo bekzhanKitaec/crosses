@@ -8,3 +8,8 @@ body{
   margin: 0;
   padding: 0;
 }
+
+.container-main{
+  max-width: 1122px;
+  width: 100%;
+}
